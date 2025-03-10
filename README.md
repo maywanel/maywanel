@@ -1,7 +1,9 @@
   [![moel-mes 42 stats](https://badge.mediaplus.ma/darckblue/moel-mes)](https://github.com/maywanel)
   - 🔭 I’m currently working on
-    - pipex
     - FDF
+    - Philosophers
+  - 🌱 I’m currently learning
+    - threads
 <!--
 **maywanel/maywanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
