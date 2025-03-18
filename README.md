@@ -1,7 +1,7 @@
   [![moel-mes 42 stats](https://badge.mediaplus.ma/darckblue/moel-mes)](https://github.com/maywanel)
   - 🔭 I’m currently working on
-    - FDF
     - Philosophers
+    - minishell
   - 🌱 I’m currently learning
     - threads
 <!--
