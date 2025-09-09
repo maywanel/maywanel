@@ -1,10 +1,10 @@
   [![moel-mes 42 stats](https://badge.mediaplus.ma/darckblue/moel-mes)](https://github.com/maywanel)
   - 🔭 I’m currently working on
-    - minishell
+    - netpractice
     - cpp0{0..4}
   - 🌱 I’m currently learning
-    - .NET
-    - C#
+    - java
+    - networking
 <!--
 **maywanel/maywanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
