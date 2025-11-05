@@ -1,23 +1,60 @@
-Mohamed EL Messaadi (aka) meol-mes
+<h1 align="center">👋 Hey, I'm Mohamed EL Messaadi (aka <strong>meol-mes</strong>)</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maywanel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  - 🔭 I’m currently working on
-    - netpractice
-    - cpp0{0..4}
-  - 🌱 I’m currently learning
-    - java
-    - networking
-<!--
-**maywanel/maywanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 💻 42 Student @ [1337 Benguerir](https://1337.ma)  
+- 🧩 Passionate about **Cybersecurity**, **Low-level programming**, and **C / C++ development**  
+- ⚙️ Currently exploring **Systems programming**, **Networks**, and **Reversing**  
+- 🐧 Living the **Arch Linux life**  
+- 🏀 Basketball is my daily break  
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,arch,ubuntu,vscode,neovim" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maywanel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maywanel&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🕹️ 42 Projects
+
+| Project | Description | Status |
+|----------|--------------|--------|
+| 🧵 **philosophers** | Threads and mutexes | ✅ Finished |
+| 🐚 **minishell** | Our own tiny shell | ✅ Finished |
+| 🎮 **cub3d** | 3D raycasting game engine (Wolfenstein-style) | ✅ Finished |
+
+---
+
+### 💬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/maywanel"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mouhamedelmessadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-el-messaadi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maywanel&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+<p align="center"><strong>“Code. Break. Learn. Repeat.”</strong></p>
