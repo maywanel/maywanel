@@ -19,7 +19,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,arch,ubuntu,vscode,neovim" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,linux,git,github,arch,ubuntu,vscode,neovim" />
 </p>
 
 ---
