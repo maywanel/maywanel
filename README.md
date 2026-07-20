@@ -3,7 +3,7 @@
     <img src="https://badge.mediaplus.ma/levi/moel-mes" alt="moel-mes's 42 stats" />
   </a>
   <a href="https://github.com/maywanel">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=350&lines=Low-level+C%2FC%2B%2B;Systems+Programming;AI+Agent+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maywanel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 ---
 
 ### 🧠 About Me
