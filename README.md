@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/maywanel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=350&lines=Low-level+C%2FC%2B%2B;Systems+Programming;AI+Agent+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=350&lines=Low-level+C%2FC%2B%2B;Systems+Programming;Software+Development;Alwayes+Learning" alt="Typing SVG" />
   </a>
   
   <a href="https://github.com/maywanel">
