@@ -1,4 +1,4 @@
-[![moel-mes's 42 badge](https://www.1337hub.tech/api/badge/moel-mes?theme=dark&sig=SRGWy7tTtAJeRuIetPQFZSvsZ4dlE0wZ)](https://www.1337hub.tech)
+[![moel-mes's 42 stats](https://badge.mediaplus.ma/levi/moel-mes)](https://github.com/oakoudad/badge42)
 <h1 align="center">👋 Hey, I'm Mohamed EL Messaadi (aka <strong>meol-mes</strong>)</h1>
 
 <p align="center">
