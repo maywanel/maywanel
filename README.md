@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Stats
 
-| [![maywanel's GitHub stats](https://github-readme-stats.vercel.app/api?username=maywanel&count_private=true&show_icons=true&hide_issues&hide_border=true&theme=jolly)](https://github.com/maywanel?tab=repositories) | [![maywanel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maywanel&layout=compact&hide_border=true&theme=jolly)](https://github-readme-stats.vercel.app/api/top-langs/?username=maywanel) |
+| [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=maywanel&show_icons=true&theme=radical)](https://github.com/maywanel/github-readme-stats-fast)| [![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maywanel&show_icons=true&theme=radical)](https://github.com/maywanel/github-readme-stats-fast) |
 |:-:|:-:|
 
 ---
