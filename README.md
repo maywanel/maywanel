@@ -15,7 +15,7 @@
   <br><br>
   
   <a href="https://github.com/maywanel">
-    <img src="https://streak-stats.demolab.com?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" height="140" />
+    <img src="https://streak-stats.demolab.com/?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" height="140" />
   </a>
 </div>
 
