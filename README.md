@@ -26,7 +26,7 @@
 
 **Tools & Infrastructure:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,spring,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,spring,git,github" />
 </p>
 
 **OS & Editors:**  
