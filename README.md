@@ -15,7 +15,7 @@
   <br><br>
   
   <a href="https://github.com/maywanel">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" height="120" />
+    <img src="https://streak-stats.demolab.com?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" height="140" />
   </a>
 </div>
 
@@ -23,6 +23,8 @@
 <br>
 
 <h1 align="center">👋 Hey, I'm Mohamed El Messaadi (aka <strong>moel-mes</strong>)</h1>
+
+---
 
 ---
 
