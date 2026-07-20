@@ -1,10 +1,17 @@
-[![moel-mes's 42 stats](https://badge.mediaplus.ma/levi/moel-mes)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/levi/moel-mes" alt="moel-mes's 42 stats" />
+  </a>
+  <a href="https://github.com/maywanel">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maywanel&theme=jolly&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 <h1 align="center">👋 Hey, I'm Mohamed El Messaadi (aka <strong>moel-mes</strong>)</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maywanel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 ---
 
 ### 🧠 About Me
